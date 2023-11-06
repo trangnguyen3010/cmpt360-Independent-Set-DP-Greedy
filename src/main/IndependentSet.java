@@ -4,7 +4,14 @@ import java.util.Scanner;
 
 public class IndependentSet {
     public static int findIndependentSetMaxWeight(Path path) {
-        return 0;
+        int[] memoi = new int[path.getSize() + 2];
+        memoi[0] = 0;
+        memoi[1] = 0;
+        for (int i = 2; i < path.getSize() + 2; i++) {
+            int currentVertex = path.getVertex(i - 2);
+            memoi[i] = Math.max(memoi[i - 1], memoi[i - 2] + currentVertex);
+        }
+        return memoi[path.getSize() + 1];
     }
 
     public static void main(String[] args) {
