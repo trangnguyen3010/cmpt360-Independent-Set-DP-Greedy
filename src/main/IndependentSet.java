@@ -1,10 +1,12 @@
 package main;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class IndependentSet {
+    public static int findIndependentSetMaxWeight(Path path) {
+        return 0;
+    }
+
     public static void main(String[] args) {
         // Write code to read the standard input
         // and print the output.
