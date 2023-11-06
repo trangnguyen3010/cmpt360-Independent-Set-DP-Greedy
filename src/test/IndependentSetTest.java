@@ -80,7 +80,7 @@ public class IndependentSetTest {
     public void findIndependentSetMaxWeight_givenFourEqual() {
         Path path = new Path(3, 3, 3, 3);
         int result = IndependentSet.findIndependentSetMaxWeight(path);
-        Assert.assertEquals(9, result);
+        Assert.assertEquals(6, result);
     }
 
     @Test
@@ -122,14 +122,14 @@ public class IndependentSetTest {
     public void findIndependentSetMaxWeight_givenPath13() {
         Path path = new Path(8, 2, 7, 6, 3, 4, 10, 1, 11, 13, 12, 9, 5);
         int result = IndependentSet.findIndependentSetMaxWeight(path);
-        Assert.assertEquals(52, result);
+        Assert.assertEquals(56, result);
     }
 
     @Test
     public void findIndependentSetMaxWeight_givenPath14() {
         Path path = new Path(2, 7, 9, 3, 6, 10, 8, 5, 4, 11, 12, 13, 1, 14);
         int result = IndependentSet.findIndependentSetMaxWeight(path);
-        Assert.assertEquals(55, result);
+        Assert.assertEquals(64, result);
     }
 
 
@@ -137,6 +137,6 @@ public class IndependentSetTest {
     public void findIndependentSetMaxWeight_givenPath18() {
         Path path = new Path(4, 12, 14, 3, 7, 1, 16, 2, 13, 5, 10, 6, 11, 8, 9, 15, 17, 18);
         int result = IndependentSet.findIndependentSetMaxWeight(path);
-        Assert.assertEquals(107, result);
+        Assert.assertEquals(108, result);
     }
 }
