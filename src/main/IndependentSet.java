@@ -29,7 +29,7 @@ public class IndependentSet {
                 scanner.nextLine();
             }
         }
-        System.out.println(findIndependentSetMaxWeight(path));
+        System.out.print(findIndependentSetMaxWeight(path));
     }
 
     private static int getNextInt(final Scanner scanner) {
