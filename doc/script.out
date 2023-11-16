@@ -1,0 +1,95 @@
+Script started on Wed Nov 15 23:58:33 2023
+Enter passphrase for /Users/trang.nguyen/.ssh/id_rsa: 
+Identity added: /Users/trang.nguyen/.ssh/id_rsa (trang.nguyen@benevity.com)
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           [0m[27m[24m[Jtrang.nguyen@G4PCV44VFV cmpt360-asn3-1 % [K[?2004h../script.sh[?2004l
+6
+1
+6
+8
+6
+3
+6
+18
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           [0m[27m[24m[Jtrang.nguyen@G4PCV44VFV cmpt360-asn3-1 % [K[?2004h[7m./test.sh[27m[9D[27m.[27m/[27mt[27me[27ms[27mt[27m.[27ms[27mh[?2004l
+Check test 1:
+---------------------------------
+Check test 2:
+---------------------------------
+Check test 3:
+---------------------------------
+Check test 4:
+---------------------------------
+Check test 5:
+---------------------------------
+Check test 6:
+---------------------------------
+Check test 7:
+---------------------------------
+Check test 8:
+---------------------------------
+Check test 9:
+---------------------------------
+Check test 10:
+---------------------------------
+Check test 11:
+---------------------------------
+Check test 12:
+---------------------------------
+Check test 13:
+---------------------------------
+Check test 14:
+---------------------------------
+Check test 15:
+---------------------------------
+Check test 16:
+---------------------------------
+Check test 17:
+---------------------------------
+Check test 18:
+---------------------------------
+Check test 19:
+---------------------------------
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                           [0m[27m[24m[Jtrang.nguyen@G4PCV44VFV cmpt360-asn3-1 % [K[?2004h[7m./test_junit.sh[27m[15D[27m.[27m/[27mt[27me[27ms[27mt[27m_[27mj[27mu[27mn[27mi[27mt[27m.[27ms[27mh[?2004l
+added manifest
+adding: test/(in = 0) (out= 0)(stored 0%)
+adding: test/result/(in = 0) (out= 0)(stored 0%)
+adding: test/result/test6.out(in = 1) (out= 3)(deflated -200%)
+adding: test/result/test7.out(in = 1) (out= 3)(deflated -200%)
+adding: test/result/test5.out(in = 1) (out= 3)(deflated -200%)
+adding: test/result/test4.out(in = 1) (out= 3)(deflated -200%)
+adding: test/result/test1.out(in = 1) (out= 3)(deflated -200%)
+adding: test/result/test3.out(in = 1) (out= 3)(deflated -200%)
+adding: test/result/test2.out(in = 1) (out= 3)(deflated -200%)
+adding: test/result/test15.out(in = 2) (out= 4)(deflated -100%)
+adding: test/result/test14.out(in = 2) (out= 4)(deflated -100%)
+adding: test/result/test16.out(in = 2) (out= 4)(deflated -100%)
+adding: test/result/test17.out(in = 2) (out= 4)(deflated -100%)
+adding: test/result/test13.out(in = 2) (out= 4)(deflated -100%)
+adding: test/result/test12.out(in = 2) (out= 4)(deflated -100%)
+adding: test/result/test10.out(in = 2) (out= 4)(deflated -100%)
+adding: test/result/test11.out(in = 1) (out= 3)(deflated -200%)
+adding: test/result/test19.out(in = 3) (out= 5)(deflated -66%)
+adding: test/result/test18.out(in = 2) (out= 4)(deflated -100%)
+adding: test/result/test9.out(in = 2) (out= 4)(deflated -100%)
+adding: test/result/test8.out(in = 1) (out= 3)(deflated -200%)
+adding: test/IndependentSetTest.class(in = 3755) (out= 1264)(deflated 66%)
+adding: production/(in = 0) (out= 0)(stored 0%)
+adding: production/cmpt360-asn3-1/(in = 0) (out= 0)(stored 0%)
+adding: production/cmpt360-asn3-1/test/(in = 0) (out= 0)(stored 0%)
+adding: production/cmpt360-asn3-1/test/out/(in = 0) (out= 0)(stored 0%)
+adding: production/cmpt360-asn3-1/test/out/test6.out(in = 2) (out= 4)(deflated -100%)
+adding: production/cmpt360-asn3-1/test/out/test7.out(in = 2) (out= 4)(deflated -100%)
+adding: production/cmpt360-asn3-1/test/out/test5.out(in = 2) (out= 4)(deflated -100%)
+adding: production/cmpt360-asn3-1/test/out/test4.out(in = 2) (out= 4)(deflated -100%)
+adding: production/cmpt360-asn3-1/test/out/test1.out(in = 2) (out= 4)(deflated -100%)
+adding: production/cmpt360-asn3-1/test/out/test3.out(in = 2) (out= 4)(deflated -100%)
+adding: production/cmpt360-asn3-1/test/out/test2.out(in = 2) (out= 4)(deflated -100%)
+adding: production/cmpt360-asn3-1/test/out/test15.out(in = 3) (out= 5)(deflated -66%)
+adding: production/cmpt360-asn3-1/test/out/test14.out(in = 3) (out= 5)(deflated -66%)
+adding: production/cmpt360-asn3-1/test/out/test16.out(in = 3) (out= 5)(deflated -66%)
+adding: production/cmpt360-asn3-1/test/out/test17.out(in = 3) (out= 5)(deflated -66%)
+adding: production/cmpt360-asn3-1/test/out/test13.out(in = 3) (out= 5)(deflated -66%)
+adding: production/cmpt360-asn3-1/test/out/test12.out(in = 3) (out= 5)(deflated -66%)
+adding: production/cmpt360-asn3-1/test/out/test10.out(in = 3) (out= 5)(deflated -66%)
+adding: production/cmpt360-asn3-1/test/out/test11.out(in = 2) (out= 4)(deflated -100%)
+adding: production/cmpt360-asn3-1/test/out/test19.out

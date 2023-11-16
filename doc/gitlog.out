@@ -1,0 +1,93 @@
+commit 99b0426a37b4b876f10225d73ca5522d388637f0
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Wed Nov 15 23:57:47 2023 -0600
+
+    no longer print the newline character after the result
+
+commit 3490f82aa99c4f32c635024329e6db0ceb1de824
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Wed Nov 15 23:33:55 2023 -0600
+
+    Update jar file after making change to the code
+
+commit 0a6e753ff7d992bafc5ec6d6ffca107c002ab123
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Wed Nov 15 23:32:35 2023 -0600
+
+    Revert "update tests for printing paths" which is are question 2 instead
+    
+    This reverts commit a2262d258e1cb7f56d5933953cdd43fcbe768a20.
+
+commit 53cef8da25e1f73b465c185fd3def93a4c7f61ee
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Wed Nov 15 23:32:35 2023 -0600
+
+    Revert "update functions for printing paths" which is for the question 2 instead
+    
+    This reverts commit ba27495221ef2210dead5e525bece5f1ea36a026.
+
+commit ba27495221ef2210dead5e525bece5f1ea36a026
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Fri Nov 10 11:36:05 2023 -0600
+
+    update functions for printing paths
+
+commit a2262d258e1cb7f56d5933953cdd43fcbe768a20
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Fri Nov 10 11:35:26 2023 -0600
+
+    update tests for printing paths
+
+commit 2f7d63cc5412902c2bb9b84862e283f33c1f0d0f
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Mon Nov 6 21:41:05 2023 -0600
+
+    update README
+
+commit 3962f8491bbf09e903ba6fcdf6fe208b21109a9d
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Mon Nov 6 21:34:56 2023 -0600
+
+    add input file and expected output files
+
+commit 323940cb174d538370b5c5bd7f14db594496f34b
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Mon Nov 6 11:36:52 2023 -0600
+
+    add the algo, passed all testes
+
+commit 6187100dc0134757c7c5d1e51d1aefb5a0c074b1
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Mon Nov 6 11:36:24 2023 -0600
+
+    modify Path class
+
+commit 12badf2df65eb685daa8a6e1a12a56aef27d8e6d
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Mon Nov 6 11:35:56 2023 -0600
+
+    fix tests
+
+commit 086b0ab078fffbe6963fafed415e907bf5b25354
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Mon Nov 6 00:37:04 2023 -0600
+
+    write junit tests for the algorithm
+
+commit f14937328fa95a4a3f288dad6c18acabe32605e6
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Sun Nov 5 23:57:34 2023 -0600
+
+    build data structure, read and validate input
+
+commit 03f9a7135b957f3ab8e24bc51549a7d2ccb42c13
+Author: Trang Nguyen <trang.nguyen@benevity.com>
+Date:   Wed Nov 1 22:02:11 2023 -0600
+
+    add scaffolding
+
+commit febac94da0d5efab266cb0f338079d9e15211d11
+Author: trangnguyen3010 <66387098+trangnguyen3010@users.noreply.github.com>
+Date:   Wed Nov 1 21:32:48 2023 -0600
+
+    Initial commit
