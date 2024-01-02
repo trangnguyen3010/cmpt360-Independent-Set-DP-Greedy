@@ -120,3 +120,25 @@ Time: 0.039
 
 OK (19 tests)
 ```
+
+# Assignment Detail
+## Written Question
+[writtenQuestion.pdf](writtenQuestion.pdf)
+
+Solution: [writtenSolution.pdf](writtenSolution.pdf)
+## Programming Question
+1. (20 pts) Implement, in Java, your algorithm to find a maximum independent
+   set on a path. Your program should read input from System.in
+   comprised of n + 1 lines; the first one is n, telling you how many more
+   lines to read; and then the weights of each consecutive vertex are given,
+   one per line. The example given would contain six lines:4
+<br>6 &nbsp;&nbsp;&nbsp;&nbsp; # six weights
+<br>1 &nbsp;&nbsp;&nbsp;&nbsp; # weight of v1
+<br>6 &nbsp;&nbsp;&nbsp;&nbsp; # weight of v2
+<br>8 &nbsp;&nbsp;&nbsp;&nbsp; # .
+<br>6 &nbsp;&nbsp;&nbsp;&nbsp; # .
+<br>3 &nbsp;&nbsp;&nbsp;&nbsp; # .
+<br>6 &nbsp;&nbsp;&nbsp;&nbsp; # weight of v6
+<br> and your output, sent to System.out should emit the total weight on
+   one line:
+   <br>18
